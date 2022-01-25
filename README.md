@@ -1,2 +1,2 @@
 # komiwojazer
-Algorytm ewolucyjny komiwojażer 
+Algorytm ewolucyjny komiwojażer w Pythonie
