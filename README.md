@@ -1,0 +1,2 @@
+# komiwojazer
+Algorytm ewolucyjny komiwojażer 
